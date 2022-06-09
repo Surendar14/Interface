@@ -7,7 +7,7 @@
 
 
 ## Program:
-```python
+~~~
 using System;
 public interface Bank
 {
@@ -55,8 +55,7 @@ public class Hello
         c.withdrawal();
     }
 }
-```
-
+~~~
 
 ## Output:
 
