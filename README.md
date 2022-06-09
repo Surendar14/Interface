@@ -1,7 +1,7 @@
 # Interface
 
 ## Aim:
-
+   To write a C# program using interface concept
 
 ## Algorithm:
 
@@ -58,6 +58,8 @@ public class Hello
 ~~~
 
 ## Output:
+![Screenshot (90)](https://user-images.githubusercontent.com/75235759/172880677-24417800-9397-42e4-8d7b-691b3c2bb0ef.png)
 
 
 ## Result:
+Thus, C# program using interface concept was developed.
