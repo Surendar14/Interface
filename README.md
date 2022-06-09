@@ -58,7 +58,9 @@ public class Hello
 ~~~
 
 ## Output:
-![Screenshot (90)](https://user-images.githubusercontent.com/75235759/172880677-24417800-9397-42e4-8d7b-691b3c2bb0ef.png)
+
+![Screenshot (92)](https://user-images.githubusercontent.com/75235759/172882157-32f05399-87e9-4790-9ab7-3c27e5f9c081.png)
+
 
 
 ## Result:
